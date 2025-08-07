@@ -1,6 +1,5 @@
 ### Hi there! 👋
 
-- 🌱 I’m currently learning networking, security and Azure.
-- 🤔 I’m looking for help with networking.
+- 🌱 I’m currently learning more networking, security Python and Azure.
 - 📫 My email: kylemarion0512@gmail.com
 - 😄 Pronouns: He/Him/They
